@@ -1,2 +1,2 @@
 #!/bin/bash
-SOURCE_DIRECTORY='/home/Foo/folder_source DESTINATION_DIRECTORY='/home/Foor/other_folder/folder_destination' cp-v /*.html 
+cp -v 14-copy_html/0x00-shell_basics/alx-system_engineering-devops/*.html 14-copy_html/alx-system_engineering-devops/
