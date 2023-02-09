@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -v documents/projects/folder_source/*.html documents/folder_destination/
+SOURCE_DIRECTORY='/home/Foo/folder_source DESTINATION_DIRECTORY='/home/Foor/other_folder/folder_destination' cp-v /*.html 
