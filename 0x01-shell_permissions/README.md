@@ -1,1 +1,1 @@
-Switch from cuurent user to user betty
+Print the effective username of the current user
