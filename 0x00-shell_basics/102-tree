@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcom/to/school
+mkdir -p 102-tree/welcome/ 102-tree/welcome/to/ 102-tree/welcome/to/school
